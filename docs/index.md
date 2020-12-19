@@ -43,4 +43,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-# [1. First Dev Log](https://tonywang1027.github.io/Android-Develop-Logs/first)
+# [1. First Dev Log](docs/first)
